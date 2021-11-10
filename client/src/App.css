@@ -1,0 +1,22 @@
+
+.a{
+  display: block;
+}
+.main{
+  height: 100vh;
+}
+.row{
+  display: flex;
+  align-content: center;
+}
+.darkmode{
+  height: 20px;
+}
+.darkmode-box{
+  display:flex;
+  position:absolute;
+  top:0%;
+  left:0%;
+  margin: 10px;
+  align-items: center;
+}
